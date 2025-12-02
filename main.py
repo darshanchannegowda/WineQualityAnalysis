@@ -340,7 +340,7 @@ if __name__ == '__main__':
             
             # Header Section
             st.title("🍷 Wine Quality Dataset - Exploratory Data Analysis")
-            st.markdown("**Statistical Data Science Project** | Correlation Tests & Advanced Visualization")
+            st.markdown("**Correlation Tests & Advanced Visualization**")
             st.markdown("*Dataset: UCI Wine Quality (Red & White Wine)*")
             st.divider()
 
